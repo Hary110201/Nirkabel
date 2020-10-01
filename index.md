@@ -19,4 +19,4 @@ WPA2 tujuan dari sertifikasi adalah untuk mendukung wajib tambahan fitur keamana
 MAC Address Filtering merupakan metode filtering untuk membatasi hak akses dari MAC Address yang bersangkutanHampir setiap wireless access point maupun router difasilitasi dengan keamanan MAC Filtering. 
 
 
-![Image]https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIicLNNuXeicaQC5Sf5u73AGjB4yqclG6zGQ&usqp=CAU
+![Image](images.jpeg)
